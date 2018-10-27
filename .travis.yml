@@ -5,8 +5,9 @@ python:
 
 install:
   - pip install tweepy
-  - pip install git+https://github.com/altair-viz/altair
-  - pip install vega_datasets
+  - pip install geoplotlib
+  - pip install pyglet
+  - pip install numpy
 
 script:
   - echo "Insert pytest here"
