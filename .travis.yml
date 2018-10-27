@@ -6,6 +6,7 @@ python:
 install:
   - pip install tweepy
   - pip install git+https://github.com/altair-viz/altair
+  - pip install vega_datasets
 
 script:
   - echo "Insert pytest here"
