@@ -1,13 +1,28 @@
-import altair as alt
+"""
+Example of choropleth using geojson files.
+Based on by Mike Bostock's unemployment choropleth http://bl.ocks.org/mbostock/4060606
+"""
 
-# load a simple dataset as a pandas DataFrame
-from vega_datasets import data
-cars = data.cars()
+import geoplotlib
+from geoplotlib.utils import BoundingBox
+from geoplotlib.colors import ColorMap
+import json
 
-chart = alt.Chart(cars).mark_point().encode(
-    x='Horsepower',
-    y='Miles_per_Gallon',
-    color='Origin',
-).interactive()
 
-chart.serve()
+# find the unemployment rate for the selected county, and convert it to color
+def get_color(properties):
+    key = str(int(properties['STATE'])) + properties['COUNTY']
+    if key in unemployment:
+        return cmap.to_color(unemployment.get(key), .15, 'lin')
+    else:
+        return [0, 0, 0, 0]
+
+
+with open('data/unemployment.json') as fin:
+    unemployment = json.load(fin)
+
+cmap = ColorMap('Blues', alpha=255, levels=10)
+geoplotlib.geojson('data/gz_2010_us_050_00_20m.json', fill=True, color=get_color, f_tooltip=lambda properties: properties['NAME'])
+geoplotlib.geojson('data/gz_2010_us_050_00_20m.json', fill=False, color=[255, 255, 255, 64])
+geoplotlib.set_bbox(BoundingBox.USA)
+geoplotlib.show()
