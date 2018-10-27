@@ -5,3 +5,6 @@ python:
 
 script:
   - echo "Insert pytest here"
+
+notifications:
+  email: false
