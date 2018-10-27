@@ -5,6 +5,7 @@ python:
 
 install:
   - pip install tweepy
+  - pip install git+https://github.com/altair-viz/altair
 
 script:
   - echo "Insert pytest here"
