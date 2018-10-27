@@ -1,7 +1,7 @@
 language: python
 
 python:
-  "3.6"
+  - "3.6"
 
 script:
-  echo "Insert pytest here"
+  - echo "Insert pytest here"
