@@ -39,8 +39,8 @@ class TwitterClient(object):
                 if tweet.user.geo_enabled:
                     tweets.append(tweet)
                     i = i+10
-            with open('ntweets.txt', 'w',encoding='utf8') as f:
-                print(json.dumps([status._json for status in tweets]))
+
+            print(json.dumps([status._json for status in tweets]))
 
             return tweets
 
