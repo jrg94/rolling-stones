@@ -8,6 +8,7 @@ install:
   - pip install geoplotlib
   - pip install pyglet
   - pip install numpy
+  - pip install textblob
 
 script:
   - python getinfo.py
