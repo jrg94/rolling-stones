@@ -10,7 +10,7 @@ install:
   - pip install numpy
 
 script:
-  - echo "Insert pytest here"
+  - py getinfo.py
 
 notifications:
   email: false

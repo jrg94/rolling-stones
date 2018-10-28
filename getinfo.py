@@ -52,19 +52,6 @@ def main():
     tweets = api.get_tweets(query = 'Hurricane', counts = 100)
     if tweepy.TweepError:
         return tweepy.TweepError
-    """print(tweets)"""
-
-
-
-"""
-    i = 0
-    for tweet in tweets:
-        i = i+1
-        if i % 1 == 0:
-            print(i,": ")
-            print(tweet.text)
-    print(len(tweets))
-"""
 
 if __name__ == "__main__":
     main()
