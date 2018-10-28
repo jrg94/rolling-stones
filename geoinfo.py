@@ -37,21 +37,13 @@ class TwitterClient(object):
             i = 0
             for tweet in fetched_tweets:
                 if tweet.user.geo_enabled:
+                    parsed_tweet = {}
+                    parsed_tweet['text'] = tweet.text
+                    parsed_tweet['sentiment'] = self.get_tweet_sentiment(tweet.text)
+                    parsed_tweet['coordinates'] = tweet.coordinates
+                    parsed_tweet['created_at'] = tweet.created_at
 
-                    tweets.append(tweet)
-                    i = i+10
-            print(i)
-
-            parsed_tweet = {}
-            parsed_tweet['text'] = tweet.text
-            parsed_tweet['sentiment'] = self.get_tweet_sentiment(tweet.text)
-            parsed_tweet['coordinates'] = tweet.coordinates
-            parsed_tweet['created_at'] = tweet.created_at
-            if tweet.retweet_count > 0:
-                if parsed_tweet not in tweets:
-                    tweets.append(parsed_tweet)
-            else:
-                tweets.append(parsed_tweet)
+                    tweets.append(parsed_tweet);
 
             print(json.dumps(tweets))
 
