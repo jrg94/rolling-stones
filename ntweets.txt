@@ -1,3 +1,59 @@
+{'sentiment': None, 'location': 'NC, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 46, 6)}
+{'sentiment': None, 'location': 'Missing Tiff', 'created_at': datetime.datetime(2018, 10, 28, 0, 45, 59)}
+{'sentiment': -0.02777777777777779, 'location': 'Georgia, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 45, 49)}
+{'sentiment': None, 'location': 'Huntsville, AL', 'created_at': datetime.datetime(2018, 10, 28, 0, 45, 48)}
+{'sentiment': None, 'location': 'Jonesboro, AR', 'created_at': datetime.datetime(2018, 10, 28, 0, 45, 46)}
+{'sentiment': -0.02777777777777779, 'location': 'I Follow Back (within24Hrs)', 'created_at': datetime.datetime(2018, 10, 28, 0, 45, 39)}
+{'sentiment': 0.2, 'location': 'New York, NY', 'created_at': datetime.datetime(2018, 10, 28, 0, 45, 31)}
+{'sentiment': 0.13636363636363635, 'location': 'Florida, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 45, 26)}
+{'sentiment': -0.15000000000000002, 'location': 'carretalandia', 'created_at': datetime.datetime(2018, 10, 28, 0, 45, 20)}
+{'sentiment': 0.4375, 'location': 'Bay Area, CA', 'created_at': datetime.datetime(2018, 10, 28, 0, 45, 20)}
+{'sentiment': None, 'location': 'Atlanta, GA', 'created_at': datetime.datetime(2018, 10, 28, 0, 45, 18)}
+{'sentiment': None, 'location': 'Florida', 'created_at': datetime.datetime(2018, 10, 28, 0, 45, 17)}
+{'sentiment': -0.2, 'location': 'Munster, IN', 'created_at': datetime.datetime(2018, 10, 28, 0, 45, 15)}
+{'sentiment': None, 'location': 'Louisville, KY', 'created_at': datetime.datetime(2018, 10, 28, 0, 45, 10)}
+{'sentiment': -0.13333333333333333, 'location': 'Iggy Pop’s lizard offspring', 'created_at': datetime.datetime(2018, 10, 28, 0, 45, 6)}
+{'sentiment': None, 'location': 'Tallahassee', 'created_at': datetime.datetime(2018, 10, 28, 0, 45, 4)}
+{'sentiment': -0.15000000000000002, 'location': 'munro | lg(b)t', 'created_at': datetime.datetime(2018, 10, 28, 0, 45, 2)}
+{'sentiment': -0.15000000000000002, 'location': 'badlands', 'created_at': datetime.datetime(2018, 10, 28, 0, 44, 56)}
+{'sentiment': None, 'location': 'Fla.', 'created_at': datetime.datetime(2018, 10, 28, 0, 44, 37)}
+{'sentiment': None, 'location': 'United States', 'created_at': datetime.datetime(2018, 10, 28, 0, 44, 36)}
+{'sentiment': None, 'location': 'hoopin @ oñate', 'created_at': datetime.datetime(2018, 10, 28, 0, 44, 35)}
+{'sentiment': None, 'location': 'United States', 'created_at': datetime.datetime(2018, 10, 28, 0, 44, 29)}
+{'sentiment': 0.018181818181818174, 'location': 'Ventura, CA', 'created_at': datetime.datetime(2018, 10, 28, 0, 44, 28)}
+{'sentiment': None, 'location': 'North Carolina, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 44, 22)}
+{'sentiment': None, 'location': 'Ely, NV', 'created_at': datetime.datetime(2018, 10, 28, 0, 43, 56)}
+{'sentiment': None, 'location': 'West Palm Beach, FL', 'created_at': datetime.datetime(2018, 10, 28, 0, 43, 51)}
+{'sentiment': -0.39375, 'location': '831➡️520 ', 'created_at': datetime.datetime(2018, 10, 28, 0, 43, 49)}
+{'sentiment': None, 'location': 'Bradenton, FL', 'created_at': datetime.datetime(2018, 10, 28, 0, 43, 36)}
+{'sentiment': None, 'location': 'Brent, London', 'created_at': datetime.datetime(2018, 10, 28, 0, 43, 30)}
+{'sentiment': None, 'location': 'Las Vegas, NV', 'created_at': datetime.datetime(2018, 10, 28, 0, 43, 25)}
+{'sentiment': 0.8, 'location': 'Arizona, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 43, 9)}
+{'sentiment': None, 'location': 'Las Vegas, NV', 'created_at': datetime.datetime(2018, 10, 28, 0, 42, 59)}
+{'sentiment': None, 'location': 'United States', 'created_at': datetime.datetime(2018, 10, 28, 0, 42, 58)}
+{'sentiment': None, 'location': 'Florida, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 42, 55)}
+{'sentiment': 0.5, 'location': 'Florida, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 42, 54)}
+{'sentiment': None, 'location': 'Iggy Pop’s lizard offspring', 'created_at': datetime.datetime(2018, 10, 28, 0, 42, 42)}
+{'sentiment': None, 'location': 'Texas', 'created_at': datetime.datetime(2018, 10, 28, 0, 42, 40)}
+{'sentiment': None, 'location': 'iPhone', 'created_at': datetime.datetime(2018, 10, 28, 0, 42, 38)}
+{'sentiment': None, 'location': 'Flensburg, Schleswig-Holstein', 'created_at': datetime.datetime(2018, 10, 28, 0, 42, 36)}
+{'sentiment': -0.02777777777777779, 'location': 'Vero Beach, FL', 'created_at': datetime.datetime(2018, 10, 28, 0, 42, 35)}
+{'sentiment': None, 'location': 'Tulsa, OK', 'created_at': datetime.datetime(2018, 10, 28, 0, 42, 33)}
+{'sentiment': None, 'location': 'United States', 'created_at': datetime.datetime(2018, 10, 28, 0, 42, 27)}
+{'sentiment': None, 'location': 'Las Vegas, NV', 'created_at': datetime.datetime(2018, 10, 28, 0, 42, 20)}
+{'sentiment': -0.02777777777777779, 'location': 'United States', 'created_at': datetime.datetime(2018, 10, 28, 0, 42, 20)}
+{'sentiment': None, 'location': 'tHatliLdirtY, TX', 'created_at': datetime.datetime(2018, 10, 28, 0, 42, 14)}
+{'sentiment': -0.15000000000000002, 'location': 'AL,7/27,PSA,HFK y NBTS tour 🇦', 'created_at': datetime.datetime(2018, 10, 28, 0, 42, 7)}
+{'sentiment': None, 'location': 'usa.', 'created_at': datetime.datetime(2018, 10, 28, 0, 42, 4)}
+{'sentiment': 0.3, 'location': 'United States', 'created_at': datetime.datetime(2018, 10, 28, 0, 41, 58)}
+{'sentiment': None, 'location': 'T E X A S B A B Y', 'created_at': datetime.datetime(2018, 10, 28, 0, 41, 42)}
+{'sentiment': None, 'location': 'United States', 'created_at': datetime.datetime(2018, 10, 28, 0, 41, 37)}
+{'sentiment': 0.07499999999999998, 'location': 'Michigan, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 41, 36)}
+{'sentiment': None, 'location': 'All Over the Earth', 'created_at': datetime.datetime(2018, 10, 28, 0, 41, 36)}
+{'sentiment': -0.2, 'location': 'Around ', 'created_at': datetime.datetime(2018, 10, 28, 0, 41, 31)}
+{'sentiment': -0.3, 'location': 'USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 41, 29)}
+{'sentiment': None, 'location': 'Croydon/Coulsdon', 'created_at': datetime.datetime(2018, 10, 28, 0, 41, 1)}
+{'sentiment': None, 'location': 'JT, CA', 'created_at': datetime.datetime(2018, 10, 28, 0, 40, 49)}
 {'sentiment': None, 'location': 'Tulsa, Oklahoma', 'created_at': datetime.datetime(2018, 10, 28, 0, 40, 43)}
 {'sentiment': 0.07499999999999998, 'location': 'New York', 'created_at': datetime.datetime(2018, 10, 28, 0, 40, 37)}
 {'sentiment': None, 'location': 'New Mexico🌵', 'created_at': datetime.datetime(2018, 10, 28, 0, 40, 36)}
@@ -349,3 +405,309 @@
 {'sentiment': 0.5, 'location': 'Shining City on the Hill', 'created_at': datetime.datetime(2018, 10, 28, 0, 11, 7)}
 {'sentiment': None, 'location': 'Massachusetts, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 11, 4)}
 {'sentiment': None, 'location': 'Lockport, NY', 'created_at': datetime.datetime(2018, 10, 28, 0, 11, 2)}
+{'sentiment': None, 'location': 'Mississippi', 'created_at': datetime.datetime(2018, 10, 28, 0, 10, 57)}
+{'sentiment': 0.10972222222222221, 'location': 'Newark De', 'created_at': datetime.datetime(2018, 10, 28, 0, 10, 50)}
+{'sentiment': None, 'location': '📍KCMO 👉🏻 🚛 💨 ', 'created_at': datetime.datetime(2018, 10, 28, 0, 10, 48)}
+{'sentiment': -0.125, 'location': 'Santa Rosa, CA', 'created_at': datetime.datetime(2018, 10, 28, 0, 10, 45)}
+{'sentiment': None, 'location': 'Houston, TX', 'created_at': datetime.datetime(2018, 10, 28, 0, 10, 44)}
+{'sentiment': None, 'location': 'Rio de janeiro 🇧🇷', 'created_at': datetime.datetime(2018, 10, 28, 0, 10, 35)}
+{'sentiment': None, 'location': 'Palm Coast, FL', 'created_at': datetime.datetime(2018, 10, 28, 0, 10, 32)}
+{'sentiment': None, 'location': 'Seattle, WA', 'created_at': datetime.datetime(2018, 10, 28, 0, 10, 32)}
+{'sentiment': -0.1875, 'location': 'Manitoba, Canada', 'created_at': datetime.datetime(2018, 10, 28, 0, 10, 31)}
+{'sentiment': None, 'location': 'United States', 'created_at': datetime.datetime(2018, 10, 28, 0, 10, 30)}
+{'sentiment': None, 'location': 'Lawton, OK', 'created_at': datetime.datetime(2018, 10, 28, 0, 10, 25)}
+{'sentiment': None, 'location': 'Louisiana', 'created_at': datetime.datetime(2018, 10, 28, 0, 10, 25)}
+{'sentiment': None, 'location': 'Krusty Krab', 'created_at': datetime.datetime(2018, 10, 28, 0, 10, 20)}
+{'sentiment': -0.025, 'location': 'Florida, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 10, 18)}
+{'sentiment': 0.15555555555555556, 'location': 'Barnstable Town, MA', 'created_at': datetime.datetime(2018, 10, 28, 0, 10, 14)}
+{'sentiment': None, 'location': 'オホーツク海', 'created_at': datetime.datetime(2018, 10, 28, 0, 10, 9)}
+{'sentiment': None, 'location': 'Worldwide / Arizona', 'created_at': datetime.datetime(2018, 10, 28, 0, 10, 5)}
+{'sentiment': -0.03571428571428571, 'location': 'American Redoubt', 'created_at': datetime.datetime(2018, 10, 28, 0, 10, 3)}
+{'sentiment': None, 'location': 'iPhone: 30.308907,-81.972969', 'created_at': datetime.datetime(2018, 10, 28, 0, 9, 48)}
+{'sentiment': 0.06818181818181818, 'location': '@goodgrievings on IG,FB,', 'created_at': datetime.datetime(2018, 10, 28, 0, 9, 47)}
+{'sentiment': None, 'location': 'Atlanta/ Tallahassee/ Naples', 'created_at': datetime.datetime(2018, 10, 28, 0, 9, 45)}
+{'sentiment': None, 'location': 'USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 9, 42)}
+{'sentiment': None, 'location': 'Canyon, Texas', 'created_at': datetime.datetime(2018, 10, 28, 0, 9, 38)}
+{'sentiment': None, 'location': 'Palm Coast, FL', 'created_at': datetime.datetime(2018, 10, 28, 0, 9, 37)}
+{'sentiment': None, 'location': 'Republic of the Philippines', 'created_at': datetime.datetime(2018, 10, 28, 0, 9, 34)}
+{'sentiment': None, 'location': 'Chico, CA', 'created_at': datetime.datetime(2018, 10, 28, 0, 9, 29)}
+{'sentiment': None, 'location': 'United States', 'created_at': datetime.datetime(2018, 10, 28, 0, 9, 26)}
+{'sentiment': -1.0, 'location': 'Florida, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 9, 20)}
+{'sentiment': None, 'location': 'Canton, Michigan', 'created_at': datetime.datetime(2018, 10, 28, 0, 9, 15)}
+{'sentiment': 0.21666666666666665, 'location': 'Hialeah, FL', 'created_at': datetime.datetime(2018, 10, 28, 0, 9, 13)}
+{'sentiment': 0.6, 'location': 'Utah, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 9, 6)}
+{'sentiment': 0.05, 'location': 'Hightstown, NJ', 'created_at': datetime.datetime(2018, 10, 28, 0, 9, 5)}
+{'sentiment': None, 'location': 'Texas, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 9, 2)}
+{'sentiment': -0.39375, 'location': 'Temple, TX', 'created_at': datetime.datetime(2018, 10, 28, 0, 8, 52)}
+{'sentiment': None, 'location': 'Kentucky, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 8, 51)}
+{'sentiment': None, 'location': 'Denton, TX', 'created_at': datetime.datetime(2018, 10, 28, 0, 8, 33)}
+{'sentiment': 0.1, 'location': 'University of Florida', 'created_at': datetime.datetime(2018, 10, 28, 0, 8, 31)}
+{'sentiment': 0.25, 'location': 'Reno', 'created_at': datetime.datetime(2018, 10, 28, 0, 8, 25)}
+{'sentiment': 0.5, 'location': 'USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 8, 22)}
+{'sentiment': None, 'location': 'New York, New York', 'created_at': datetime.datetime(2018, 10, 28, 0, 8, 19)}
+{'sentiment': None, 'location': 'Houston, Texas', 'created_at': datetime.datetime(2018, 10, 28, 0, 8, 12)}
+{'sentiment': -0.025, 'location': 'SW CT', 'created_at': datetime.datetime(2018, 10, 28, 0, 8, 6)}
+{'sentiment': None, 'location': 'North Blue', 'created_at': datetime.datetime(2018, 10, 28, 0, 7, 59)}
+{'sentiment': None, 'location': 'Sioux Falls, SD', 'created_at': datetime.datetime(2018, 10, 28, 0, 7, 50)}
+{'sentiment': None, 'location': 'Denver, CO', 'created_at': datetime.datetime(2018, 10, 28, 0, 7, 49)}
+{'sentiment': None, 'location': 'Michigan, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 7, 44)}
+{'sentiment': None, 'location': 'Normal, IL', 'created_at': datetime.datetime(2018, 10, 28, 0, 7, 43)}
+{'sentiment': None, 'location': 'Milwaukee, WI', 'created_at': datetime.datetime(2018, 10, 28, 0, 7, 33)}
+{'sentiment': None, 'location': 'Florida', 'created_at': datetime.datetime(2018, 10, 28, 0, 7, 24)}
+{'sentiment': 0.2, 'location': 'WESTERN NEW YORK ', 'created_at': datetime.datetime(2018, 10, 28, 0, 7, 16)}
+{'sentiment': None, 'location': 'Miami, FL', 'created_at': datetime.datetime(2018, 10, 28, 0, 7, 1)}
+{'sentiment': -0.39375, 'location': '24', 'created_at': datetime.datetime(2018, 10, 28, 0, 6, 59)}
+{'sentiment': None, 'location': 'New York, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 6, 53)}
+{'sentiment': -0.5, 'location': 'Florida, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 6, 52)}
+{'sentiment': None, 'location': 'Allentown, Pa', 'created_at': datetime.datetime(2018, 10, 28, 0, 6, 45)}
+{'sentiment': None, 'location': 'Hyogo ', 'created_at': datetime.datetime(2018, 10, 28, 0, 6, 37)}
+{'sentiment': 0.25, 'location': 'Skagit Valley, WA', 'created_at': datetime.datetime(2018, 10, 28, 0, 6, 23)}
+{'sentiment': -0.025, 'location': 'Pompano Beach, FL', 'created_at': datetime.datetime(2018, 10, 28, 0, 6, 13)}
+{'sentiment': None, 'location': 'North Blue', 'created_at': datetime.datetime(2018, 10, 28, 0, 6, 13)}
+{'sentiment': 0.1, 'location': 'Greensboro, NC', 'created_at': datetime.datetime(2018, 10, 28, 0, 6, 3)}
+{'sentiment': None, 'location': 'Connected Every Where', 'created_at': datetime.datetime(2018, 10, 28, 0, 6)}
+{'sentiment': 0.25, 'location': 'Baltimore, MD', 'created_at': datetime.datetime(2018, 10, 28, 0, 5, 54)}
+{'sentiment': None, 'location': 'Hyogo ', 'created_at': datetime.datetime(2018, 10, 28, 0, 5, 51)}
+{'sentiment': 0.5, 'location': 'Wisconsin', 'created_at': datetime.datetime(2018, 10, 28, 0, 5, 34)}
+{'sentiment': None, 'location': 'MPLS, MN.', 'created_at': datetime.datetime(2018, 10, 28, 0, 5, 31)}
+{'sentiment': 0.3333333333333333, 'location': 'Palm Coast, FL', 'created_at': datetime.datetime(2018, 10, 28, 0, 5, 27)}
+{'sentiment': None, 'location': 'Las Vegas, NV', 'created_at': datetime.datetime(2018, 10, 28, 0, 5, 19)}
+{'sentiment': None, 'location': 'Raleigh, NC', 'created_at': datetime.datetime(2018, 10, 28, 0, 5, 16)}
+{'sentiment': None, 'location': 'worldwide (via 🇪🇸)', 'created_at': datetime.datetime(2018, 10, 28, 0, 5, 7)}
+{'sentiment': -0.3333333333333333, 'location': 'United States', 'created_at': datetime.datetime(2018, 10, 28, 0, 5, 7)}
+{'sentiment': 0.25, 'location': 'UK', 'created_at': datetime.datetime(2018, 10, 28, 0, 5, 4)}
+{'sentiment': 0.5, 'location': 'Livonia, MI', 'created_at': datetime.datetime(2018, 10, 28, 0, 5)}
+{'sentiment': 0.13750000000000004, 'location': 'Houston, Texas, U.S.A.', 'created_at': datetime.datetime(2018, 10, 28, 0, 5)}
+{'sentiment': -0.39375, 'location': 'New Orleans, LA (Richmond, VA)', 'created_at': datetime.datetime(2018, 10, 28, 0, 4, 51)}
+{'sentiment': 1.0, 'location': 'Parts Unknown', 'created_at': datetime.datetime(2018, 10, 28, 0, 4, 49)}
+{'sentiment': None, 'location': '栃木 栃木市', 'created_at': datetime.datetime(2018, 10, 28, 0, 4, 48)}
+{'sentiment': 0.6119047619047618, 'location': 'California, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 4, 47)}
+{'sentiment': 0.15, 'location': 'Ottawa, Canada', 'created_at': datetime.datetime(2018, 10, 28, 0, 4, 47)}
+{'sentiment': None, 'location': 'all over', 'created_at': datetime.datetime(2018, 10, 28, 0, 4, 41)}
+{'sentiment': -0.225, 'location': 'New Jersey, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 4, 34)}
+{'sentiment': None, 'location': 'Jersey Shore', 'created_at': datetime.datetime(2018, 10, 28, 0, 4, 32)}
+{'sentiment': -0.125, 'location': 'New York, NY', 'created_at': datetime.datetime(2018, 10, 28, 0, 4, 26)}
+{'sentiment': None, 'location': 'south carolina', 'created_at': datetime.datetime(2018, 10, 28, 0, 4, 10)}
+{'sentiment': None, 'location': 'Iowa', 'created_at': datetime.datetime(2018, 10, 28, 0, 3, 59)}
+{'sentiment': 0.3333333333333333, 'location': 'Palm Coast, FL', 'created_at': datetime.datetime(2018, 10, 28, 0, 3, 57)}
+{'sentiment': None, 'location': 'Ft. Lauderdale, FL', 'created_at': datetime.datetime(2018, 10, 28, 0, 3, 41)}
+{'sentiment': 0.5, 'location': 'Tampa, FL', 'created_at': datetime.datetime(2018, 10, 28, 0, 3, 32)}
+{'sentiment': None, 'location': 'Somewhere over here', 'created_at': datetime.datetime(2018, 10, 28, 0, 3, 22)}
+{'sentiment': 0.1, 'location': "kent '20", 'created_at': datetime.datetime(2018, 10, 28, 0, 3, 8)}
+{'sentiment': None, 'location': 'Southwest ', 'created_at': datetime.datetime(2018, 10, 28, 0, 3, 6)}
+{'sentiment': None, 'location': 'Atlanta, GA', 'created_at': datetime.datetime(2018, 10, 28, 0, 3, 2)}
+{'sentiment': None, 'location': 'Vancouver, British Columbia', 'created_at': datetime.datetime(2018, 10, 28, 0, 2, 59)}
+{'sentiment': 0.4375, 'location': 'San Diego, California', 'created_at': datetime.datetime(2018, 10, 28, 0, 2, 51)}
+{'sentiment': 0.15, 'location': 'Ottawa, Ontario', 'created_at': datetime.datetime(2018, 10, 28, 0, 2, 49)}
+{'sentiment': None, 'location': 'they/them', 'created_at': datetime.datetime(2018, 10, 28, 0, 2, 39)}
+{'sentiment': -0.39375, 'location': 'Bumfuck, Egypt', 'created_at': datetime.datetime(2018, 10, 28, 0, 2, 36)}
+{'sentiment': 0.8, 'location': 'Clemson, South Carolina', 'created_at': datetime.datetime(2018, 10, 28, 0, 2, 32)}
+{'sentiment': 0.26666666666666666, 'location': 'Florida, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 2, 23)}
+{'sentiment': None, 'location': 'New Jersey, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 2, 22)}
+{'sentiment': None, 'location': 'Northgate, OH', 'created_at': datetime.datetime(2018, 10, 28, 0, 2, 19)}
+{'sentiment': 0.6, 'location': 'Paris - Nantwich - London', 'created_at': datetime.datetime(2018, 10, 28, 0, 2, 4)}
+{'sentiment': None, 'location': 'Panama City Beach, Florida', 'created_at': datetime.datetime(2018, 10, 28, 0, 1, 58)}
+{'sentiment': None, 'location': 'Texas', 'created_at': datetime.datetime(2018, 10, 28, 0, 1, 50)}
+{'sentiment': None, 'location': 'Indiana, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 1, 39)}
+{'sentiment': None, 'location': 'Chicago, IL', 'created_at': datetime.datetime(2018, 10, 28, 0, 1, 39)}
+{'sentiment': -0.125, 'location': 'Greenville, NC', 'created_at': datetime.datetime(2018, 10, 28, 0, 1, 36)}
+{'sentiment': None, 'location': 'Deplorable California, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 1, 36)}
+{'sentiment': 0.2, 'location': 'Tampa FL and MD working Farm', 'created_at': datetime.datetime(2018, 10, 28, 0, 1, 34)}
+{'sentiment': None, 'location': 'South Carolina, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 1, 26)}
+{'sentiment': 0.2, 'location': 'Tampa Bay, Florida USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 1, 24)}
+{'sentiment': 0.13636363636363635, 'location': 'Georgetown, GA', 'created_at': datetime.datetime(2018, 10, 28, 0, 1, 20)}
+{'sentiment': None, 'location': 'The one and only U.S.A.', 'created_at': datetime.datetime(2018, 10, 28, 0, 1, 10)}
+{'sentiment': None, 'location': 'New Jersey, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 0, 59)}
+{'sentiment': None, 'location': 'Republic of Texas', 'created_at': datetime.datetime(2018, 10, 28, 0, 0, 58)}
+{'sentiment': None, 'location': 'Livingston, NJ', 'created_at': datetime.datetime(2018, 10, 28, 0, 0, 57)}
+{'sentiment': 0.8, 'location': 'Clemson, SC', 'created_at': datetime.datetime(2018, 10, 28, 0, 0, 50)}
+{'sentiment': 0.35, 'location': 'Alliston, Ontario', 'created_at': datetime.datetime(2018, 10, 28, 0, 0, 39)}
+{'sentiment': 0.5, 'location': 'Missouri, USA', 'created_at': datetime.datetime(2018, 10, 28, 0, 0, 28)}
+{'sentiment': None, 'location': 'NC', 'created_at': datetime.datetime(2018, 10, 28, 0, 0, 25)}
+{'sentiment': 0.3, 'location': 'Uptown, New Orleans', 'created_at': datetime.datetime(2018, 10, 28, 0, 0, 22)}
+{'sentiment': 0.5, 'location': 'Houston, TX', 'created_at': datetime.datetime(2018, 10, 28, 0, 0, 15)}
+{'sentiment': None, 'location': 'Not Canada *gasp*', 'created_at': datetime.datetime(2018, 10, 28, 0, 0, 3)}
+{'sentiment': 0.25, 'location': 'Washington, DC', 'created_at': datetime.datetime(2018, 10, 28, 0, 0, 1)}
+{'sentiment': 0.2, 'location': 'Magnolia, TX', 'created_at': datetime.datetime(2018, 10, 27, 23, 59, 57)}
+{'sentiment': None, 'location': 'south philly', 'created_at': datetime.datetime(2018, 10, 27, 23, 59, 57)}
+{'sentiment': None, 'location': 'Mérida, Venezuela', 'created_at': datetime.datetime(2018, 10, 27, 23, 59, 57)}
+{'sentiment': None, 'location': 'Eaton, CO', 'created_at': datetime.datetime(2018, 10, 27, 23, 59, 56)}
+{'sentiment': 0.04999999999999999, 'location': 'Tulsa,ok', 'created_at': datetime.datetime(2018, 10, 27, 23, 59, 50)}
+{'sentiment': 0.1, 'location': 'they/them', 'created_at': datetime.datetime(2018, 10, 27, 23, 59, 45)}
+{'sentiment': -0.09375, 'location': 'Pasig City, National Capital R', 'created_at': datetime.datetime(2018, 10, 27, 23, 59, 40)}
+{'sentiment': 0.10972222222222221, 'location': 'Annapolis, MD', 'created_at': datetime.datetime(2018, 10, 27, 23, 59, 36)}
+{'sentiment': None, 'location': 'Tulsa', 'created_at': datetime.datetime(2018, 10, 27, 23, 59, 35)}
+{'sentiment': None, 'location': 'Lexington,KY', 'created_at': datetime.datetime(2018, 10, 27, 23, 59, 30)}
+{'sentiment': None, 'location': 'In the South!', 'created_at': datetime.datetime(2018, 10, 27, 23, 59, 29)}
+{'sentiment': None, 'location': 'Tennessee, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 58, 53)}
+{'sentiment': None, 'location': 'Bibb County ', 'created_at': datetime.datetime(2018, 10, 27, 23, 58, 38)}
+{'sentiment': None, 'location': 'In ur face,holding up mirrors.', 'created_at': datetime.datetime(2018, 10, 27, 23, 58, 30)}
+{'sentiment': -0.025, 'location': 'On a ragga trip', 'created_at': datetime.datetime(2018, 10, 27, 23, 58, 22)}
+{'sentiment': None, 'location': 'Sunny Miami, Florida', 'created_at': datetime.datetime(2018, 10, 27, 23, 58, 13)}
+{'sentiment': None, 'location': 'Greenville', 'created_at': datetime.datetime(2018, 10, 27, 23, 58, 12)}
+{'sentiment': -0.2, 'location': 'Alabama ', 'created_at': datetime.datetime(2018, 10, 27, 23, 58, 10)}
+{'sentiment': None, 'location': 'Hessen, Deutschland', 'created_at': datetime.datetime(2018, 10, 27, 23, 58, 9)}
+{'sentiment': None, 'location': 'San Juan PR', 'created_at': datetime.datetime(2018, 10, 27, 23, 58, 7)}
+{'sentiment': None, 'location': 'Roswell, GA', 'created_at': datetime.datetime(2018, 10, 27, 23, 58, 6)}
+{'sentiment': 0.0275, 'location': 'Panama City, Florida', 'created_at': datetime.datetime(2018, 10, 27, 23, 58, 5)}
+{'sentiment': None, 'location': 'Hessen, Deutschland', 'created_at': datetime.datetime(2018, 10, 27, 23, 58, 5)}
+{'sentiment': 0.5, 'location': 'Get off my lawn', 'created_at': datetime.datetime(2018, 10, 27, 23, 58, 4)}
+{'sentiment': 0.3, 'location': 'Jonesboro, AR', 'created_at': datetime.datetime(2018, 10, 27, 23, 58, 3)}
+{'sentiment': None, 'location': 'Taipei City, Taiwan', 'created_at': datetime.datetime(2018, 10, 27, 23, 58, 1)}
+{'sentiment': 0.25, 'location': 'Atlanta, GA / Mobile, AL', 'created_at': datetime.datetime(2018, 10, 27, 23, 57, 59)}
+{'sentiment': None, 'location': 'United States', 'created_at': datetime.datetime(2018, 10, 27, 23, 57, 53)}
+{'sentiment': None, 'location': 'United States', 'created_at': datetime.datetime(2018, 10, 27, 23, 57, 49)}
+{'sentiment': None, 'location': 'Hessen, Deutschland', 'created_at': datetime.datetime(2018, 10, 27, 23, 57, 49)}
+{'sentiment': None, 'location': 'Hessen, Deutschland', 'created_at': datetime.datetime(2018, 10, 27, 23, 57, 44)}
+{'sentiment': None, 'location': 'Evansville, Indiana', 'created_at': datetime.datetime(2018, 10, 27, 23, 57, 31)}
+{'sentiment': 0.45, 'location': 'Libtard state, CT', 'created_at': datetime.datetime(2018, 10, 27, 23, 57, 29)}
+{'sentiment': None, 'location': 'Morristown, Tn', 'created_at': datetime.datetime(2018, 10, 27, 23, 57, 21)}
+{'sentiment': 0.2, 'location': 'Here', 'created_at': datetime.datetime(2018, 10, 27, 23, 57, 20)}
+{'sentiment': 0.35000000000000003, 'location': 'San Juan, Puerto Rico', 'created_at': datetime.datetime(2018, 10, 27, 23, 57, 12)}
+{'sentiment': None, 'location': '305 ✌🏾850', 'created_at': datetime.datetime(2018, 10, 27, 23, 57, 1)}
+{'sentiment': 0.07499999999999998, 'location': 'Georgia, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 56, 56)}
+{'sentiment': 0.25, 'location': 'Oklahoma, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 56, 56)}
+{'sentiment': 0.65, 'location': 'On a corner in Winslow, AZ.', 'created_at': datetime.datetime(2018, 10, 27, 23, 56, 43)}
+{'sentiment': None, 'location': 'Texan Living In Florida', 'created_at': datetime.datetime(2018, 10, 27, 23, 56, 40)}
+{'sentiment': 0.6, 'location': 'In the film editing room', 'created_at': datetime.datetime(2018, 10, 27, 23, 56, 25)}
+{'sentiment': 0.0625, 'location': 'Over here', 'created_at': datetime.datetime(2018, 10, 27, 23, 56, 24)}
+{'sentiment': None, 'location': 'USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 56, 22)}
+{'sentiment': None, 'location': 'Baton Rouge, LA', 'created_at': datetime.datetime(2018, 10, 27, 23, 56, 17)}
+{'sentiment': -0.16666666666666666, 'location': 'State of Jefferson', 'created_at': datetime.datetime(2018, 10, 27, 23, 56, 17)}
+{'sentiment': -0.1777777777777778, 'location': 'Richland Hills, TX', 'created_at': datetime.datetime(2018, 10, 27, 23, 56, 16)}
+{'sentiment': None, 'location': 'Austin, TX', 'created_at': datetime.datetime(2018, 10, 27, 23, 56, 1)}
+{'sentiment': 0.6, 'location': 'Tulsa, Oklahoma', 'created_at': datetime.datetime(2018, 10, 27, 23, 55, 48)}
+{'sentiment': None, 'location': 'New Orleans, LA', 'created_at': datetime.datetime(2018, 10, 27, 23, 55, 48)}
+{'sentiment': 0.5, 'location': '🇺🇸', 'created_at': datetime.datetime(2018, 10, 27, 23, 55, 23)}
+{'sentiment': 0.38666666666666666, 'location': 'Border/Language/Culture', 'created_at': datetime.datetime(2018, 10, 27, 23, 55, 21)}
+{'sentiment': -0.05, 'location': 'Ohio', 'created_at': datetime.datetime(2018, 10, 27, 23, 55, 21)}
+{'sentiment': -0.2, 'location': 'New Jersey, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 55, 15)}
+{'sentiment': None, 'location': 'Anthony wendell DeRiggs', 'created_at': datetime.datetime(2018, 10, 27, 23, 55, 4)}
+{'sentiment': 0.05, 'location': 'On the Road to Nowhere', 'created_at': datetime.datetime(2018, 10, 27, 23, 54, 52)}
+{'sentiment': None, 'location': 'USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 54, 49)}
+{'sentiment': None, 'location': 'Lafayette, LA', 'created_at': datetime.datetime(2018, 10, 27, 23, 54, 47)}
+{'sentiment': 0.10972222222222221, 'location': 'Independence, MO', 'created_at': datetime.datetime(2018, 10, 27, 23, 54, 47)}
+{'sentiment': None, 'location': 'Miami, FL 👉🏽 Atlanta, GA', 'created_at': datetime.datetime(2018, 10, 27, 23, 54, 43)}
+{'sentiment': None, 'location': 'Tampa', 'created_at': datetime.datetime(2018, 10, 27, 23, 54, 29)}
+{'sentiment': None, 'location': 'Washington DC', 'created_at': datetime.datetime(2018, 10, 27, 23, 54, 29)}
+{'sentiment': 0.5, 'location': 'Augusta, GA', 'created_at': datetime.datetime(2018, 10, 27, 23, 54, 24)}
+{'sentiment': None, 'location': 'Tupelo, MS', 'created_at': datetime.datetime(2018, 10, 27, 23, 54, 19)}
+{'sentiment': None, 'location': 'Temuco, Chile', 'created_at': datetime.datetime(2018, 10, 27, 23, 54, 5)}
+{'sentiment': 0.5, 'location': 'Texas, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 53, 57)}
+{'sentiment': 0.5, 'location': 'Close to my SIG', 'created_at': datetime.datetime(2018, 10, 27, 23, 53, 55)}
+{'sentiment': 0.5, 'location': 'USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 53, 55)}
+{'sentiment': 0.07499999999999998, 'location': 'Where the Map Turns Blue', 'created_at': datetime.datetime(2018, 10, 27, 23, 53, 36)}
+{'sentiment': None, 'location': 'Lockport, NY', 'created_at': datetime.datetime(2018, 10, 27, 23, 53, 27)}
+{'sentiment': None, 'location': 'MoveOn.org', 'created_at': datetime.datetime(2018, 10, 27, 23, 53, 26)}
+{'sentiment': None, 'location': 'Natchez, Mississippi', 'created_at': datetime.datetime(2018, 10, 27, 23, 53, 26)}
+{'sentiment': 0.2, 'location': 'Everywhere!', 'created_at': datetime.datetime(2018, 10, 27, 23, 53, 25)}
+{'sentiment': None, 'location': 'Lagos', 'created_at': datetime.datetime(2018, 10, 27, 23, 53, 22)}
+{'sentiment': None, 'location': 'Dallas, TX', 'created_at': datetime.datetime(2018, 10, 27, 23, 53, 18)}
+{'sentiment': 0.5, 'location': 'Flyover nation', 'created_at': datetime.datetime(2018, 10, 27, 23, 52, 57)}
+{'sentiment': None, 'location': 'Washington, DC', 'created_at': datetime.datetime(2018, 10, 27, 23, 52, 51)}
+{'sentiment': -0.03214285714285714, 'location': 'chicago il', 'created_at': datetime.datetime(2018, 10, 27, 23, 52, 47)}
+{'sentiment': None, 'location': 'The Internet', 'created_at': datetime.datetime(2018, 10, 27, 23, 52, 38)}
+{'sentiment': None, 'location': 'Missouri, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 52, 34)}
+{'sentiment': 0.26666666666666666, 'location': 'United States', 'created_at': datetime.datetime(2018, 10, 27, 23, 52, 32)}
+{'sentiment': None, 'location': 'West Footscray, Melbourne', 'created_at': datetime.datetime(2018, 10, 27, 23, 52, 27)}
+{'sentiment': 0.25, 'location': 'Nowhere', 'created_at': datetime.datetime(2018, 10, 27, 23, 52, 12)}
+{'sentiment': -0.16666666666666666, 'location': 'Texas, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 52, 9)}
+{'sentiment': 0.26666666666666666, 'location': 'South Florida', 'created_at': datetime.datetime(2018, 10, 27, 23, 52, 6)}
+{'sentiment': 0.5, 'location': 'visit link for full Q video', 'created_at': datetime.datetime(2018, 10, 27, 23, 51, 58)}
+{'sentiment': None, 'location': "R'lyeh", 'created_at': datetime.datetime(2018, 10, 27, 23, 51, 51)}
+{'sentiment': None, 'location': 'Bethlehem, GA', 'created_at': datetime.datetime(2018, 10, 27, 23, 51, 45)}
+{'sentiment': None, 'location': 'Knoxville, TN', 'created_at': datetime.datetime(2018, 10, 27, 23, 51, 45)}
+{'sentiment': None, 'location': 'Canada', 'created_at': datetime.datetime(2018, 10, 27, 23, 51, 41)}
+{'sentiment': 0.35, 'location': 'Michigan, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 51, 25)}
+{'sentiment': None, 'location': 'United States', 'created_at': datetime.datetime(2018, 10, 27, 23, 51, 25)}
+{'sentiment': None, 'location': 'Seattle, Washington', 'created_at': datetime.datetime(2018, 10, 27, 23, 51, 22)}
+{'sentiment': -0.1, 'location': '🎑', 'created_at': datetime.datetime(2018, 10, 27, 23, 51, 22)}
+{'sentiment': 0.6, 'location': 'Evansville, Indiana', 'created_at': datetime.datetime(2018, 10, 27, 23, 51, 10)}
+{'sentiment': 0.5, 'location': 'United States', 'created_at': datetime.datetime(2018, 10, 27, 23, 51, 9)}
+{'sentiment': None, 'location': 'Planet Earth', 'created_at': datetime.datetime(2018, 10, 27, 23, 51, 8)}
+{'sentiment': -0.1, 'location': 'sa mundong kasama ko si crush', 'created_at': datetime.datetime(2018, 10, 27, 23, 50, 57)}
+{'sentiment': None, 'location': 'Arizona, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 50, 56)}
+{'sentiment': None, 'location': 'Nowhere USA Somewhere here', 'created_at': datetime.datetime(2018, 10, 27, 23, 50, 49)}
+{'sentiment': None, 'location': 'Red Lion, PA', 'created_at': datetime.datetime(2018, 10, 27, 23, 50, 45)}
+{'sentiment': None, 'location': 'Los Angeles, CA', 'created_at': datetime.datetime(2018, 10, 27, 23, 50, 44)}
+{'sentiment': None, 'location': 'Newton, MA', 'created_at': datetime.datetime(2018, 10, 27, 23, 50, 44)}
+{'sentiment': None, 'location': 'California, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 50, 43)}
+{'sentiment': 0.38666666666666666, 'location': 'Karachi,Pakistan', 'created_at': datetime.datetime(2018, 10, 27, 23, 50, 39)}
+{'sentiment': None, 'location': 'London, England', 'created_at': datetime.datetime(2018, 10, 27, 23, 50, 37)}
+{'sentiment': 0.3, 'location': 'Santa Rosa Beach, FL', 'created_at': datetime.datetime(2018, 10, 27, 23, 50, 32)}
+{'sentiment': 0.5, 'location': 'Eastern Panhandle, WV', 'created_at': datetime.datetime(2018, 10, 27, 23, 50, 17)}
+{'sentiment': None, 'location': 'The Real World', 'created_at': datetime.datetime(2018, 10, 27, 23, 50, 15)}
+{'sentiment': None, 'location': 'liverpool', 'created_at': datetime.datetime(2018, 10, 27, 23, 50, 4)}
+{'sentiment': -0.03571428571428571, 'location': 'Salt Lake City', 'created_at': datetime.datetime(2018, 10, 27, 23, 50, 2)}
+{'sentiment': 0.2, 'location': 'SoCal - 💙 The OC 💙', 'created_at': datetime.datetime(2018, 10, 27, 23, 49, 46)}
+{'sentiment': None, 'location': 'Wichita, KS', 'created_at': datetime.datetime(2018, 10, 27, 23, 49, 44)}
+{'sentiment': None, 'location': 'Nayarit, México', 'created_at': datetime.datetime(2018, 10, 27, 23, 49, 30)}
+{'sentiment': 0.018181818181818174, 'location': 'USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 49, 22)}
+{'sentiment': None, 'location': 'Phoenix, AZ', 'created_at': datetime.datetime(2018, 10, 27, 23, 49, 2)}
+{'sentiment': None, 'location': 'Garden City, SC', 'created_at': datetime.datetime(2018, 10, 27, 23, 49, 1)}
+{'sentiment': 0.05416666666666667, 'location': 'Philadelphia, PA', 'created_at': datetime.datetime(2018, 10, 27, 23, 48, 52)}
+{'sentiment': -0.025, 'location': 'Middlehurg Florida', 'created_at': datetime.datetime(2018, 10, 27, 23, 48, 46)}
+{'sentiment': None, 'location': 'In the Attic', 'created_at': datetime.datetime(2018, 10, 27, 23, 48, 44)}
+{'sentiment': None, 'location': 'Ontario, Canada', 'created_at': datetime.datetime(2018, 10, 27, 23, 48, 42)}
+{'sentiment': 0.5, 'location': 'Baton Rouge, LA', 'created_at': datetime.datetime(2018, 10, 27, 23, 48, 32)}
+{'sentiment': 1.0, 'location': 'United States', 'created_at': datetime.datetime(2018, 10, 27, 23, 48, 24)}
+{'sentiment': None, 'location': 'California, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 48, 24)}
+{'sentiment': 0.2, 'location': 'Washington, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 48, 15)}
+{'sentiment': None, 'location': 'Jasmine ❤️', 'created_at': datetime.datetime(2018, 10, 27, 23, 48, 12)}
+{'sentiment': None, 'location': 'Frisco, TX', 'created_at': datetime.datetime(2018, 10, 27, 23, 48, 5)}
+{'sentiment': None, 'location': 'George Soros Basement', 'created_at': datetime.datetime(2018, 10, 27, 23, 48, 4)}
+{'sentiment': None, 'location': 'Cyberspace', 'created_at': datetime.datetime(2018, 10, 27, 23, 48)}
+{'sentiment': -0.03333333333333333, 'location': 'New York, NY', 'created_at': datetime.datetime(2018, 10, 27, 23, 48)}
+{'sentiment': None, 'location': 'Miami, FL', 'created_at': datetime.datetime(2018, 10, 27, 23, 47, 44)}
+{'sentiment': None, 'location': 'Panama City Beach, FL', 'created_at': datetime.datetime(2018, 10, 27, 23, 47, 44)}
+{'sentiment': 0.5, 'location': 'Somewhere on A1A, Florida, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 47, 42)}
+{'sentiment': None, 'location': 'w my wingnut 💙', 'created_at': datetime.datetime(2018, 10, 27, 23, 47, 36)}
+{'sentiment': None, 'location': 'Florida, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 47, 35)}
+{'sentiment': None, 'location': 'Alliston, ON', 'created_at': datetime.datetime(2018, 10, 27, 23, 47, 34)}
+{'sentiment': None, 'location': 'Massachusetts!', 'created_at': datetime.datetime(2018, 10, 27, 23, 47, 33)}
+{'sentiment': None, 'location': 'Panama City, FL', 'created_at': datetime.datetime(2018, 10, 27, 23, 47, 25)}
+{'sentiment': None, 'location': 'Pendleton SC', 'created_at': datetime.datetime(2018, 10, 27, 23, 47, 24)}
+{'sentiment': 0.5, 'location': 'Medford ', 'created_at': datetime.datetime(2018, 10, 27, 23, 47, 20)}
+{'sentiment': 0.35000000000000003, 'location': 'porto', 'created_at': datetime.datetime(2018, 10, 27, 23, 47, 6)}
+{'sentiment': None, 'location': 'the sky', 'created_at': datetime.datetime(2018, 10, 27, 23, 47, 5)}
+{'sentiment': 0.10972222222222221, 'location': 'SillyCone Valley, CA', 'created_at': datetime.datetime(2018, 10, 27, 23, 47, 3)}
+{'sentiment': 0.5, 'location': 'West Michigan, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 46, 54)}
+{'sentiment': 0.26666666666666666, 'location': 'Germany', 'created_at': datetime.datetime(2018, 10, 27, 23, 46, 51)}
+{'sentiment': None, 'location': 'Prague', 'created_at': datetime.datetime(2018, 10, 27, 23, 46, 49)}
+{'sentiment': None, 'location': 'Fairfield Glade, TN', 'created_at': datetime.datetime(2018, 10, 27, 23, 46, 49)}
+{'sentiment': None, 'location': 'Portland, OR', 'created_at': datetime.datetime(2018, 10, 27, 23, 46, 45)}
+{'sentiment': -0.5, 'location': 'Third Stone From the Sun', 'created_at': datetime.datetime(2018, 10, 27, 23, 46, 44)}
+{'sentiment': None, 'location': 'Here', 'created_at': datetime.datetime(2018, 10, 27, 23, 46, 41)}
+{'sentiment': None, 'location': 'California, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 46, 38)}
+{'sentiment': 0.016666666666666666, 'location': 'Beaumont, Texas', 'created_at': datetime.datetime(2018, 10, 27, 23, 46, 29)}
+{'sentiment': None, 'location': 'somewhere dancin ', 'created_at': datetime.datetime(2018, 10, 27, 23, 46, 21)}
+{'sentiment': 0.5, 'location': 'Louisiana,USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 46, 17)}
+{'sentiment': 0.1, 'location': 'Pittsburgh, PA', 'created_at': datetime.datetime(2018, 10, 27, 23, 46, 14)}
+{'sentiment': None, 'location': 'sitting on a cornflake..', 'created_at': datetime.datetime(2018, 10, 27, 23, 45, 57)}
+{'sentiment': None, 'location': 'United Kingdom', 'created_at': datetime.datetime(2018, 10, 27, 23, 45, 51)}
+{'sentiment': 0.3166666666666667, 'location': 'RTSM 9364 - Carolinas', 'created_at': datetime.datetime(2018, 10, 27, 23, 45, 49)}
+{'sentiment': -0.08333333333333333, 'location': 'San Juan, PR', 'created_at': datetime.datetime(2018, 10, 27, 23, 45, 46)}
+{'sentiment': 0.018181818181818174, 'location': 'Fairfield Glade, TN', 'created_at': datetime.datetime(2018, 10, 27, 23, 45, 43)}
+{'sentiment': 0.45, 'location': 'Saginaw Township North, MI', 'created_at': datetime.datetime(2018, 10, 27, 23, 45, 39)}
+{'sentiment': None, 'location': 'Rio de Janeiro, Brasil', 'created_at': datetime.datetime(2018, 10, 27, 23, 45, 37)}
+{'sentiment': None, 'location': 'Michigan, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 45, 33)}
+{'sentiment': 0.38666666666666666, 'location': 'Texas, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 45, 33)}
+{'sentiment': 0.025, 'location': 'Panama City, FL', 'created_at': datetime.datetime(2018, 10, 27, 23, 45, 30)}
+{'sentiment': None, 'location': 'North Cackalacky', 'created_at': datetime.datetime(2018, 10, 27, 23, 45, 27)}
+{'sentiment': None, 'location': 'Clemson, South Carolina', 'created_at': datetime.datetime(2018, 10, 27, 23, 45, 27)}
+{'sentiment': None, 'location': 'Westmoreland Heights, Dallas', 'created_at': datetime.datetime(2018, 10, 27, 23, 45, 22)}
+{'sentiment': None, 'location': 'Mesa, AZ', 'created_at': datetime.datetime(2018, 10, 27, 23, 45, 18)}
+{'sentiment': 0.0875, 'location': '42800 Tanjung Sepat, Selangor', 'created_at': datetime.datetime(2018, 10, 27, 23, 45, 9)}
+{'sentiment': None, 'location': 'Crown Point, IN', 'created_at': datetime.datetime(2018, 10, 27, 23, 45, 8)}
+{'sentiment': None, 'location': "Sana'a-Yemen", 'created_at': datetime.datetime(2018, 10, 27, 23, 44, 54)}
+{'sentiment': None, 'location': 'Toledo, OH', 'created_at': datetime.datetime(2018, 10, 27, 23, 44, 53)}
+{'sentiment': None, 'location': 'Cleveland, OH', 'created_at': datetime.datetime(2018, 10, 27, 23, 44, 49)}
+{'sentiment': -0.2, 'location': 'Shangri-La', 'created_at': datetime.datetime(2018, 10, 27, 23, 44, 48)}
+{'sentiment': 0.0875, 'location': 'Concord, California', 'created_at': datetime.datetime(2018, 10, 27, 23, 44, 46)}
+{'sentiment': -0.2, 'location': 'Outer Space', 'created_at': datetime.datetime(2018, 10, 27, 23, 44, 43)}
+{'sentiment': None, 'location': 'Third Rock from the Sun. ', 'created_at': datetime.datetime(2018, 10, 27, 23, 44, 39)}
+{'sentiment': None, 'location': 'Utah, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 44, 30)}
+{'sentiment': 0.5, 'location': 'United States', 'created_at': datetime.datetime(2018, 10, 27, 23, 44, 30)}
+{'sentiment': 0.5, 'location': 'California, USA', 'created_at': datetime.datetime(2018, 10, 27, 23, 44, 25)}
+{'sentiment': None, 'location': 'Florida', 'created_at': datetime.datetime(2018, 10, 27, 23, 44, 23)}
+{'sentiment': None, 'location': 'chicago il', 'created_at': datetime.datetime(2018, 10, 27, 23, 44, 20)}
