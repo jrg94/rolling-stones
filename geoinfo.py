@@ -22,12 +22,8 @@ class TwitterClient(object):
 
     def get_tweet_sentiment(self, tweet):
         analysis = TextBlob(self.clean_tweet(tweet))
-        if analysis.sentiment.polarity > 0:
-            return 'positive'
-        elif analysis.sentiment.polarity == 0:
-            return 'neutral'
-        else:
-            return 'negative'
+        if analysis.sentiment.polarity:
+            return analysis.sentiment.polarity
 
     def get_tweets(self, query, counts):
         tweets = []
@@ -36,26 +32,23 @@ class TwitterClient(object):
             fetched_tweets = [status for status in tweepy.Cursor(self.api.search, q=query).items(max_tweets)]
             i = 0
             for tweet in fetched_tweets:
-                if tweet.user.geo_enabled:
+                if tweet.user.location:
+                    i = i+1
+                    print(i)
+                    parsed_tweet = {}
 
-                    tweets.append(tweet)
-                    i = i+10
-            print(i)
-
-            """
-            parsed_tweet = {}
-            parsed_tweet['text'] = tweet.text
-            parsed_tweet['sentiment'] = self.get_tweet_sentiment(tweet.text)
-            parsed_tweet['coordinates'] = tweet.coordinates
-            parsed_tweet['created_at'] = tweet.created_at
-            if tweet.retweet_count > 0:
-                if parsed_tweet not in tweets:
-                    tweets.append(parsed_tweet)
-            else:
-                tweets.append(parsed_tweet)
+                    parsed_tweet['sentiment'] = self.get_tweet_sentiment(tweet.text)
+                    parsed_tweet['location'] = tweet.user.location
+                    parsed_tweet['created_at'] = tweet.created_at
+                    if tweet.retweet_count > 0:
+                        if parsed_tweet not in tweets:
+                            tweets.append(parsed_tweet)
+                    else:
+                        tweets.append(parsed_tweet)
             #print(parsed_tweet,"\n")"""
             with open('ntweets.txt', 'w',encoding='utf8') as f:
-                f.write(str(tweets))
+                for tweet in tweets:
+                    f.write(str(tweet)+"\n")
 
             return tweets
 
@@ -64,7 +57,7 @@ class TwitterClient(object):
 
 def main():
     api = TwitterClient()
-    tweets = api.get_tweets(query = 'Hurricane', counts = 100)
+    tweets = api.get_tweets(query = 'Hurricane', counts = 1500)
     if tweepy.TweepError:
         return tweepy.TweepError
     """print(tweets)"""
