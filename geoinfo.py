@@ -38,10 +38,8 @@ class TwitterClient(object):
             for tweet in fetched_tweets:
                 if tweet.user.geo_enabled:
                     parsed_tweet = {}
-                    parsed_tweet['text'] = tweet.text
                     parsed_tweet['sentiment'] = self.get_tweet_sentiment(tweet.text)
                     parsed_tweet['coordinates'] = tweet.coordinates
-                    parsed_tweet['created_at'] = tweet.created_at
 
                     tweets.append(parsed_tweet);
 
