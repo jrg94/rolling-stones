@@ -42,7 +42,6 @@ class TwitterClient(object):
                     i = i+10
             print(i)
 
-            """
             parsed_tweet = {}
             parsed_tweet['text'] = tweet.text
             parsed_tweet['sentiment'] = self.get_tweet_sentiment(tweet.text)
@@ -53,9 +52,8 @@ class TwitterClient(object):
                     tweets.append(parsed_tweet)
             else:
                 tweets.append(parsed_tweet)
-            #print(parsed_tweet,"\n")"""
-            with open('ntweets.txt', 'w',encoding='utf8') as f:
-                f.write(str(tweets))
+
+            print(json.dumps(tweets))
 
             return tweets
 
