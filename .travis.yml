@@ -10,7 +10,7 @@ install:
   - pip install numpy
 
 script:
-  - py getinfo.py
+  - python getinfo.py
 
 notifications:
   email: false
